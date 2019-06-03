@@ -1,12 +1,7 @@
 <aura:component implements="flexipage:availableForAllPageTypes">
         
     <div class="slds-p-around_small">
-<<<<<<< HEAD
-        Hello from DF2018! Changes made here for testing branch on master
-
-=======
         Hello from DF2018! Updated for scratch1
->>>>>>> scratch1
     </div>
     
 </aura:component>
